@@ -1,0 +1,8 @@
+venv/
+*.xml
+*.iml
+.idea/
+project/
+*.ivy
+target/
+
